@@ -15,7 +15,7 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white('Pratik Palashikar /'),
-  handle: chalk.cyan('FutureEight4556'),
+  handle: chalk.cyan('pratikpalashikar'),
   work: chalk.white('Software Engineer at JPMorgan Chase'),
   twitter: chalk.cyan('https://twitter.com/pratikpalashika'),
   github: chalk.cyan('https://github.com/pratikpalashikar'),
